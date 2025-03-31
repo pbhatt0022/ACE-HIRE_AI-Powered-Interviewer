@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ACE HIRE - AI Interview Preparation Platform
 
 <img src="Ace-Hire-logo" alt="Alt Text" width="200" height="200" text-align=center>
@@ -249,3 +250,7 @@ Project Team - Team Ace Hire<br>
 Project Link: [ACE-HIRE_AI-Powered-Interviewer](https://github.com/SairajBhise2005/ACE-HIRE_AI-Powered-Interviewer)
 
 
+=======
+# ACE-HIRE_AI-Powered-Interviewer
+Ace Hire - An AI based Interviewer
+>>>>>>> e0cfdfd8d13a16fda36678d1f803a0e4d3629253
