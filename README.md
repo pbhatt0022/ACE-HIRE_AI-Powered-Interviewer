@@ -227,7 +227,7 @@ Distributed under the MIT `(License)`. See LICENSE for more information.
 
 | **Member**          | **Role**                                | **Responsibilities**                                                 | **Contact**                |  
 |---------------------|--------------------------------------|--------------------------------------------------------------------|----------------------------|  
-| **Priyanka Bhat**   | Backend Developer                    | Backend Development                                               | priyankabhatt0022@gmail.com         |  
+| **Priyanka Bhatt**   | Backend Developer                    | Backend Development                                               | priyankabhatt0022@gmail.com         |  
 | **Amrutheshwari V.** | Documentation                        | Report Formation and Parametric Design                            | amrutheshwariv@gmail.com           |  
 | **Tiya Rose**       | Frontend Designer                    | UI Design                                                         | tiyarosepulikunnel@gmail.com           |  
 | **Lavanya HS**      | Researcher                           | Problem statement and existing work research                      | lavanyahs865@gmail.com           |  
@@ -236,7 +236,7 @@ Distributed under the MIT `(License)`. See LICENSE for more information.
 
 ### Contributors
 
-- **Priyanka Bhat** - Backend Development ([@pbhatt0022](https://github.com/pbhatt0022))
+- **Priyanka Bhatt** - Backend Development ([@pbhatt0022](https://github.com/pbhatt0022))
 - **Amrutheshwari V.** - Documentation ([@Amrutheshwari01](https://github.com/Amrutheshwari01))
 - **Tiya Rose** - Frontend Design ([@tiyarosepulikunnel](https://github.com/tiyarosepulikunnel))
 - **Lavanya HS** - Research ([@lavanya-hs15](https://github.com/lavanya-hs15))
